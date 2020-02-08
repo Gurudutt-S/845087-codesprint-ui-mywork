@@ -1,0 +1,28 @@
+My associate id:
+845087
+
+Other team members:
+845141, 845026, 845139, 845138
+
+Team lead:
+845087
+
+My Role in team:
+1. To develop homepage and Integration of pages.
+
+My development files:
+1. index.html
+2. style.css
+
+I was strong in:
+1. HTML
+2. Css
+3. Documentation
+4.Integration
+
+I was weak in:
+1. Javascript Validation
+2. Making pages responsive
+
+Feedback:
+1. The activity was intresting as we where able to work in teams and explore our ideas.
